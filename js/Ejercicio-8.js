@@ -1,9 +1,4 @@
-let frase = prompt("Escriba una frase: ");
-numcaracteres = frase.length;
-for(let i=0;i<numcaracteres; i++)
-{
-    if(frase.charAt(i)=="a" ||frase.charAt(i)=="e" ||frase.charAt(i)=="i" ||frase.charAt(i)=="o" ||frase.charAt(i)=="u" )
-    {
-        document.write(frase.charAt(i));
-    }
+let numero = prompt("Escriba un numero: ");
+if(numero%2==0){
+    alert("El numero "+numero+" es divisible en 2");
 }

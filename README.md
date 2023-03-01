@@ -1,6 +1,7 @@
-# TP1 - Javascript
+# Javascript
+* Trabajo práctico número 1
 # Autor
-* Delgado Sofia 
+* Delgado Sofía 
 # Bootstrap - Versión
 * bootstrap@5.3.0-alpha1: getbootstrap.com/
 # Comentario
